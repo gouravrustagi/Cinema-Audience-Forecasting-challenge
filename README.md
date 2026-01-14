@@ -465,9 +465,7 @@ viva procedure/
 
 - 🎓 Data Scientist & Machine Learning Engineer
 - 💼 Specialization: Time Series Forecasting, Predictive Analytics
-- 📧 Contact: [Your Email]
-- 🔗 LinkedIn: [Your LinkedIn]
-- 🐙 GitHub: [Your GitHub]
+- 🔗 LinkedIn:(https://www.linkedin.com/in/gourav-rustagi-a2121a54/)
 
 ---
 
@@ -500,3 +498,4 @@ This project is available for educational and research purposes.
 Made with ❤️ by Gourav Rustagi
 
 </div>
+
